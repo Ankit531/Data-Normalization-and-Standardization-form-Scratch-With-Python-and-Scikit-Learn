@@ -1,0 +1,1 @@
+# Data-Normalization-and-Standardization-form-Scratch-With-Python-and-Scikit-Learn
